@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images</title>
+</head>
+
+<body>
+    <img src="../images/four-macaroons-808941.jpg" alt="Four Macaroons" width="400px">
+    <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="50" cy="50" r="40" fill="#F6C7B6" stroke="#E0A890" stroke-width="6" />
+        <circle cx="50" cy="50" r="30" fill="#FFE6CF" stroke="#F7D3C1" stroke-width="6" />
+        <circle cx="35" cy="45" r="7" fill="#E09770" stroke="#B5744D" stroke-width="4" />
+        <circle cx="65" cy="45" r="7" fill="#E09770" stroke="#B5744D" stroke-width="4" />
+        <path d="M 40 60 Q 50 65 60 60" stroke="#B5744D" stroke-width="4" fill="none" />
+    </svg>
+    <video autoplay controls
+        src="vecteezy_colorful-macarons-in-white-plate-with-shiny-bokeh-background-food-footage-concept_1792573 (1).mp4"
+        width="400px"></video>
+    <p>Colorful
+        macarons in white plate with shiny bokeh background Stock Videos by Vecteezy</p>
+    <canvas id="myCanvas" width="200" height="200"></canvas>
+    <script>
+        const canvas = document.getElementById("myCanvas");
+        const context = canvas.getContext("2d");
+
+        // Draw the top part of the macaroon
+        context.beginPath();
+        context.moveTo(50, 50);
+        context.quadraticCurveTo(100, 0, 150, 50);
+        context.fillStyle = "#f6c4d2";
+        context.fill();
+
+        // Draw the bottom part of the macaroon
+        context.beginPath();
+        context.moveTo(50, 150);
+        context.quadraticCurveTo(100, 200, 150, 150);
+        context.fillStyle = "#dd8f9b";
+        context.fill();
+
+        // Draw the filling
+        context.beginPath();
+        context.arc(100, 100, 40, 0, Math.PI * 2);
+        context.fillStyle = "#f8e3c3";
+        context.fill();
+    </script>
+    <picture>
+        <source </picture>
+
+
+
+
+</body>
+
+</html>
