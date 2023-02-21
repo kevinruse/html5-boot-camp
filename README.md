@@ -51,9 +51,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+<div align="center">
+  <a href="https://github.com/github_username/repo_name">
 <img src="https://kevinruse.com/assets/mockup-of-a-book-on-a-table-with-a-phone-and-a-coffee-33904.png">
-
+</a>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
