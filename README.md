@@ -26,8 +26,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The HTML Boot Camp
-<div align="left">
+<div align="center">
   <a href="https://github.com/github_username/repo_name">
 <img src="https://kevinruse.com/assets/images/mockup-of-a-book-on-a-table-with-a-phone-and-a-coffee-33904.png" width="500px">
 </a>
@@ -66,9 +65,13 @@
 </div>
 
 
-<!-- About the Project -->
-## About the HTML5 Boot Camp
+
 <div id="about-the-project">
+<!-- About the Project -->
+
+
+### About the HTML5 Boot Camp
+
 This courseware is an introductory exploration into the latest version of the HyperText Markup Language. Each chapter begins by identifying what the student will learn, followed by a brief introduction to the chapter’s contents. An explanation of the chapter objectives follows using example code, charts, and explanatory text. Each chapter includes exercises to be done with the instructor, followed by optional challenge exercises for the student to perform on their own, a quiz, and a homework exercise for the quicker student. A summary concludes each chapter. Each chapter contains independent content; thus, you are not building a project wherein your progress depends on the previous chapters’ successful completion. In addition, the data files provided with the course include a starter file for the student to begin with and a finished file that the student may use for review.
 <p align="right">(<a href="#toc">back to TOC</a>)</p>
 </div>
@@ -91,7 +94,7 @@ This courseware is an introductory exploration into the latest version of the Hy
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+### Getting Started
 <div id="getting-started">
 This repository contains the files you will work with during your bootcamp. They include: <br>
 * Guided Exercises - to be done with your instructor <br>
@@ -137,7 +140,7 @@ You will need to install the following:
 </div>
 <p align="right">(<a href="#toc">back to TOC</a>)</p>
 
-## Installation of class files
+### Installation of class files
 <div id="installation">
 1. Clone the repo
    ```sh
@@ -156,7 +159,7 @@ You may purchase and/or license this courseware from Kevin Ruse + Associates Inc
 </div>
 
 <!-- USAGE EXAMPLES -->
-## Roadmap
+### Roadmap
 <div id="roadmap">
 This HTML5 Boot Camp is part one of a multi-part Introduction to Front-end Development Course <br>
 The remainder of the course includes: <br>
@@ -169,7 +172,7 @@ The remainder of the course includes: <br>
 
 
 <!-- CONTRIBUTING -->
-## Contributing
+### Contributing
 <div id="contribute">
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
@@ -180,7 +183,7 @@ Don't forget to give the project a star! Thanks again!
 
 
 <!-- LICENSE -->
-## License
+### License
 <div id="license">
 Distributed under License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#toc">back to TOC</a>)</p>
@@ -189,7 +192,7 @@ Distributed under License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+### Contact
 <div id="contact">
 Kevin Ruse - kevin@kevinruse.com
 
